@@ -1,6 +1,6 @@
 //定义变量
-var canvasScreen = document.getElementById('cas'),
-    ctx = canvasScreen.getContext('2d'),
+var canvasScreen = document.getElementById('cas');
+var ctx = canvasScreen.getContext('2d'),
     //planet的坐标
     vpx = canvasScreen.width / 2,
     vpy = canvasScreen.height / 2,
