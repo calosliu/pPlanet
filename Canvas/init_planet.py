@@ -3,23 +3,13 @@
 
 """
 -------------------------------------------------
-    File Name:      main
+    File Name:      init_planet
     Author:         goldenman
-    date:           2018/3/23
+    date:           2018/3/24
     Description:    
 -------------------------------------------------
    Change Activity:
-                    2018/3/23:
-                        main method entrance
+                    2018/3/24:
+                        init planet
 -------------------------------------------------
 """
-
-
-# do nothing yet
-def main():
-    # invoke Canvas() to create this init planet.
-    pass
-
-
-if __name__ == '__main__':
-    main()
